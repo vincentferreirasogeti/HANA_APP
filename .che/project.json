@@ -1,0 +1,1 @@
+{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/HANA_APP/DB/src/data/PurchaseOrder.hdbcds\",\"/HANA_APP/DB/src/.hdiconfig\"]}}"]},"mixinTypes":[]}
